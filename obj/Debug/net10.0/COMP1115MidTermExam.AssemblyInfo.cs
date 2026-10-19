@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COMP1115MidTermExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d936939459ab8c8ffe9af34efc97d75ec9650800")]
 [assembly: System.Reflection.AssemblyProductAttribute("COMP1115MidTermExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COMP1115MidTermExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
